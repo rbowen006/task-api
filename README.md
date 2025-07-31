@@ -18,7 +18,7 @@ A simple JSON API built with Ruby on Rails to manage tasks.
 ## Setup
 
 ```bash
-git clone https://github.com/....../camplify.git
-cd camplify
+git clone https://github.com/rbowen006/task-api.git
+cd task-api
 bundle install
 rails db:create db:migrate
